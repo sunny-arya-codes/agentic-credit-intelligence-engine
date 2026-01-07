@@ -1,0 +1,5 @@
+customer_id,customer_name,age,credit_score,loan_id,loan_amount,loan_status,payment_id,payment_amount,due_date,paid_date,payment_status
+C001,Arjun Sharma,32,720,L001,500000,ACTIVE,P001,25000,2024-01-10,2024-01-10,ON_TIME
+C001,Arjun Sharma,32,720,L001,500000,ACTIVE,P002,25000,2024-02-10,,MISSED
+C001,Arjun Sharma,32,720,L001,500000,ACTIVE,P003,25000,2024-03-10,,MISSED
+C002,Neha Verma,29,780,L002,300000,ACTIVE,P004,15000,2024-01-15,2024-01-14,ON_TIME
